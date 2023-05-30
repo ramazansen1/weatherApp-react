@@ -20,8 +20,8 @@ The user can easily view all the information about the weather forecasts and mak
 
 ## Used Libraries
 
-- HTML5
-- CSS3
+- react-accessible-accordion
+- react-select-async-paginate
 
 ## How to install libraries?
 
